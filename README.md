@@ -1,6 +1,6 @@
 # HR-Dashboard-Analysis
 
-![Dashboard](HR-Dashboard-Analysis/Hr dashboard image.png)
+![Dashboard](HR-Dashboard-Analysis/Hr%20dashboard%20image.png)
 
 ## Data Used
 
